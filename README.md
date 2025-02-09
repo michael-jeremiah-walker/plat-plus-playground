@@ -1,6 +1,6 @@
-# Flask ChatGPT Integration
+# Plat Plus Playground
 
-A simple Flask web application that integrates with OpenAI's GPT-3.5 API to create a conversational interface.
+A simple web application that integrates with OpenAI's GPT-3.5 API to create a conversational interface.
 
 ## Features
 
