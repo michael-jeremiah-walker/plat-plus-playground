@@ -81,8 +81,3 @@ MIT License - feel free to use this code for your own projects.
 1. Fork the repository
 2. Create a new branch for your feature
 3. Submit a pull request
-
-## Acknowledgments
-
-- OpenAI for providing the GPT-3.5 API
-- Flask framework and its contributors 
