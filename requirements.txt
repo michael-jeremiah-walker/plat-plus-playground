@@ -1,0 +1,5 @@
+openai>=1.3.7
+python-dotenv==1.0.0
+rich==13.7.0  # For better console output
+flask==3.0.2  # Web framework
+flask-cors==4.0.0  # For handling CORS in development 
