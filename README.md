@@ -17,15 +17,11 @@ Imagination is more important than knowledge.
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone <your-repository-url>
-cd <repository-name>
-```
+After cloning the repository, run the following commands to install the dependencies and create a virtual environment:
 
-2. Create and activate a virtual environment:
+1. Create and activate a virtual environment:
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 ```
 
