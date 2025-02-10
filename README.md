@@ -40,7 +40,7 @@ OPENAI_API_KEY=your_api_key_here
 1. Make sure your virtual environment is activated
 2. Run the Flask application:
 ```bash
-python completed/app.py
+python chatbot/app.py
 ```
 3. Open your browser and navigate to `http://127.0.0.1:5000`
 
@@ -48,7 +48,7 @@ python completed/app.py
 
 ```
 .
-├── completed/
+├── chatbot/
 │   ├── app.py              # Main Flask application
 │   ├── templates/          # HTML templates
 │   │   └── index.html      # Main chat interface
